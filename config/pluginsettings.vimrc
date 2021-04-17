@@ -66,6 +66,7 @@ let g:ale_linters = {
 "autocmd FileType java setlocal omnifunc=javacomplete#Complete
 "autocmd FileType java JCEnable
 
+" enable escape to exit insert mode in terminal mode
 :tnoremap <Esc> <C-\><C-n>
 
 
