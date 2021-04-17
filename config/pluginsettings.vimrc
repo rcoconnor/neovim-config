@@ -66,5 +66,6 @@ let g:ale_linters = {
 "autocmd FileType java setlocal omnifunc=javacomplete#Complete
 "autocmd FileType java JCEnable
 
+:tnoremap <Esc> <C-\><C-n>
 
 
