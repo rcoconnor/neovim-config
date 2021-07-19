@@ -28,6 +28,8 @@ Plug 'tpope/vim-surround'
 "Plug 'artur-shaik/vim-javacomplete2'
 
 
+"slimv
+"Plug 'kovisoft/slimv'
 
 " Code snippets 
 "Plug 'SirVer/ultisnips'
@@ -50,6 +52,12 @@ Plug 'altercation/vim-colors-solarized'
 Plug 'morhetz/gruvbox'
 Plug 'jnurmine/zenburn'
 
+Plug 'christianchiarulli/nvcode-color-schemes.vim'
+Plug 'tanvirtin/monokai.nvim'
+Plug 'tomasr/molokai'
+Plug 'ghifarit53/tokyonight-vim'
+Plug 'rakr/vim-one'
+Plug 'sonph/onehalf', { 'rtp': 'vim' }
 
 call plug#end()
 

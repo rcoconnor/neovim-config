@@ -9,7 +9,9 @@ nnoremap <C-H> <C-W><C-H>
 ":match ExtraWhitespace /\s\+$/
 
 " Color Scheme
-colo palenight
+"colo palenight
+colo onehalfdark
+
 
 " enable deoplete at startup 
 let g:deoplete#enable_at_startup = 1 
